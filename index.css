@@ -45,7 +45,7 @@ body{
 }
 .about p{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 22px;
+    font-size: 25px;
     width: 90%;
     margin: auto;
 }
@@ -371,7 +371,7 @@ header .mobile-nav .close {
         font-size: 27px;
     }
     .about p{
-        font-size: 20px;
+        font-size: 23px;
     }
     .roadmap h1{
         font-size: 30px;
@@ -404,7 +404,7 @@ header .mobile-nav .close {
         font-size: 25px;
     }
     .about p{
-        font-size: 18px;
+        font-size: 22px;
     }
     .tokenomics h1{
         font-size: 28px;
