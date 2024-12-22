@@ -36,7 +36,7 @@ body{
 
 /* about */
 .about{
-    padding: 5%;
+    padding: 7%;
 }
 .about h1{
     text-align: center;
@@ -51,7 +51,7 @@ body{
 }
 .about-img{
     width: 80%;
-    margin: 3% 10%;
+    margin: 3% 8%;
 }
 
 
